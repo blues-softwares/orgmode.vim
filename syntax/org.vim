@@ -23,7 +23,7 @@ endif
 
 let b:org_todo_styles = {
             \   'DONE': ['#00bb00', 'NONE', 'inverse,bold'],
-            \   'TODO': ['#0087cf', 'NONE', 'bold'],
+            \   'TODO': ['#fb7a6e', '#fb7a6e', 'bold'],
             \ }
 
 if exists('g:org_custom_todo_styles')
